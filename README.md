@@ -31,6 +31,7 @@ I'm a passionate **Software Developer** from New Delhi, India, with a strong bac
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
 
 **Backend** 
+
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
@@ -44,7 +45,8 @@ I'm a passionate **Software Developer** from New Delhi, India, with a strong bac
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-##
+---
+
 ## 🚀 Projects
 
 ### [DocuVerse](https://github.com/SiddDman/docu-verse)
