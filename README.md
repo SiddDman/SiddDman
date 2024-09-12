@@ -37,6 +37,7 @@ I'm a passionate **Software Developer** with a strong background in web developm
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 
 **Tools**  
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
 ![Hadoop](https://img.shields.io/badge/Hadoop-%23231F20.svg?style=flat&logo=apache-hadoop&logoColor=yellow)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
