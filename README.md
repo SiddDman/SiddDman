@@ -1,5 +1,4 @@
 ## Hi, I'm Siddharth Dhiman 👋
-
 ## 👨‍💻 About Me
 I'm a passionate **Software Developer** from New Delhi, India, with a strong background in web development. My expertise spans across various domains, from creating scalable web applications to making games.
 
@@ -9,7 +8,6 @@ I'm a passionate **Software Developer** from New Delhi, India, with a strong bac
 - 💡 I'm passionate about technology, solving problems, and building solutions for the future.
 
 ##
-
 ## 🛠️ My Tech Stack
 
 **Languages**  
@@ -42,8 +40,7 @@ I'm a passionate **Software Developer** from New Delhi, India, with a strong bac
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-%23B7472A.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
----
-
+##
 ## 🚀 Projects
 
 ### [DocuVerse](https://github.com/SiddDman/docu-verse)
