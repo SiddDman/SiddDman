@@ -1,6 +1,7 @@
 ## Hi, I'm Siddharth Dhiman 👋
 
-## 👨‍💻 About Me
+## <img src="https://raw.githubusercontent.com/SiddDman/personal-portfolio/starter/public/dev.gif" width="45" /> About Me
+
 I'm a passionate **Software Developer** with a strong background in web development. My expertise spans across various domains, from creating scalable web applications to making games.
 
 - 🌱 Currently improving my skills in **Next.js** and **Tailwind CSS**
