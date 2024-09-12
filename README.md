@@ -82,9 +82,9 @@ A news app built with **React** that fetches data from multiple categories via t
 
 ## 📫 Get In Touch
 
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/siddharthdhiman)
-- Portfolio: [Portfolio Link](https://sidddman.github.io/personal-portfolio/)
+- LinkedIn: [Siddharth Dhiman](https://www.linkedin.com/in/siddharthdhiman)
 - Email: dhiman12siddharth@gmail.com
+- Portfolio: [Portfolio Link](https://sidddman.github.io/personal-portfolio/)
 
 ---
 
