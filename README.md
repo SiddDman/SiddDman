@@ -63,7 +63,7 @@ A collaborative text editor with real-time collaboration using **Next.js**, **Ty
 ### [Meetease](https://github.com/SiddDman/MeetEase)
 A video conferencing app built using **Next.js**, **Stream Video SDK**, and **Tailwind CSS**. User authentication is handled by **Clerk**, and the app is deployed on **Vercel**.
 
-- Technologies: **Next.js**,**TypeScript**, **Tailwind CSS**, **Stream Video SDK**, **Clerk**
+- Technologies: **Next.js**, **TypeScript**, **Tailwind CSS**, **Stream Video SDK**, **Clerk**
 - Deployment: [Live Demo](https://meet-ease-phi.vercel.app/)
 
 ### Multi-Node Hadoop Cluster
@@ -104,8 +104,7 @@ A news app built with **React** that fetches data from multiple categories via t
 
 ---
 
-**Let's collaborate and create something amazing together!**
-
+## Let's collaborate and create something amazing together!🤝
 <!--
 **SiddDman/SiddDman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
