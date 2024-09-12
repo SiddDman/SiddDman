@@ -100,7 +100,7 @@ A news app built with **React** that fetches data from multiple categories via t
 - Email: dhiman12siddharth@gmail.com
 - LinkedIn: [Siddharth Dhiman](https://www.linkedin.com/in/siddharthdhiman)
 - Portfolio: [Siddharth.Dev](https://sidddman.github.io/personal-portfolio/)
-- Youtube: [Visit](https://www.youtube.com/@SiddharthDhiman)
+- Youtube: [@SiddharthDhiman](https://www.youtube.com/@SiddharthDhiman)
 
 ---
 
