@@ -5,7 +5,7 @@ I'm a passionate **Software Developer** from New Delhi, India, with a strong bac
 
 - 🌱 Currently improving my skills in **Next.js** and **Tailwind CSS**
 - 🔭 Working on API development and exploring **DevOps** and **Blockchain**
-- 💬 Ask me about **React, TypeScript, C++**, or **Web Development**
+- 💬 Ask me about **React, TypeScript, C++**, or **Web Developcodement**
 - 💡 I'm passionate about technology, solving problems, and building solutions for the future.
 
 ---
@@ -13,7 +13,7 @@ I'm a passionate **Software Developer** from New Delhi, India, with a strong bac
 ## 🛠️ My Tech Stack
 
 **Languages**  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
@@ -58,26 +58,28 @@ A video conferencing app built using **Next.js**, **Stream Video SDK**, and **Ta
 - Technologies: **Next.js**,**TypeScript**, **Tailwind CSS**, **Stream Video SDK**, **Clerk**
 - Deployment: [Live Demo](https://meet-ease-phi.vercel.app/)
 
-### [Multi-Node Hadoop Cluster]
+### Multi-Node Hadoop Cluster
 A **Multi-Node Hadoop Cluster** set up for processing large datasets using the **MapReduce** programming model. This project demonstrates how to configure a Hadoop cluster with multiple nodes and implement a sample **MapReduce** job for distributed data processing.
 
 - Technologies: **Hadoop**, **MapReduce**
 - Setup Video: [Youtube Demo](https://youtu.be/8mBPeT00xsM?si=3wWJ5c4ddyNhK6sk)
 - Documentation: [Documentaion](https://docs.google.com/document/d/1gWLlMBr96HJnkWsXyHkFN0UaqNokG3sTZGxMec_C_uc/edit?usp=sharing)
 
-### [Personal Portfolio Website](https://github.com/SiddDman/personal-portfolio/tree/starter)
+### [Portfolio Website](https://github.com/SiddDman/personal-portfolio/tree/starter)
 A **dynamic portfolio website** showcasing my skills, projects, and contact information. Built with **React**, **framer-motion**, **React Three**, and **Sass**, it features smooth animations and responsive design.
 
 - Technologies: **React**, **framer-motion**, **React Three**, **Sass**
 - Deployment: [Live Demo](https://sidddman.github.io/personal-portfolio/)
 
-### [Chromium Extension - Image Generator](https://github.com/SiddDman/ai-image-gen-extension)
+### [AI Image Generation Chromium Extension](https://github.com/SiddDman/ai-image-gen-extension)
 A browser extension that generates images from text using **OpenAI's API**.
 
 - Technologies: **React**, **OpenAI API**, **JavaScript**
 
-### [Dynamic News Website](https://github.com/SiddDman/News_Website_React)
+### [Rocket News](https://github.com/SiddDman/News_Website_React)
 A news app built with **React** that fetches data from multiple categories via the **News API**. It features dark mode and a responsive UI.
+
+- Technologies: **React**, **News API**
 
 ---
 
