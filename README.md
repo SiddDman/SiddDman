@@ -15,9 +15,9 @@ I'm a passionate **Software Developer** from New Delhi, India, with a strong bac
 **Languages**  
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![SQL](https://img.shields.io/badge/SQL-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
@@ -27,14 +27,10 @@ I'm a passionate **Software Developer** from New Delhi, India, with a strong bac
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![ShadCN](https://img.shields.io/badge/ShadCN-%234A90E2.svg?style=for-the-badge&logo=shadcn&logoColor=white&color=000000)
+![ShadCN](https://img.shields.io/badge/ShadCN-%234A90E2.svg?style=flat&logo=shadcn&logoColor=white&color=000000)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+**Backend** : ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 
 **Tools**  
 ![Hadoop](https://img.shields.io/badge/Hadoop-%23231F20.svg?style=for-the-badge&logo=apache-hadoop&logoColor=yellow)
