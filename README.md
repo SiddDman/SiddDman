@@ -1,7 +1,7 @@
 ## Hi, I'm Siddharth Dhiman 👋
 
 ## 👨‍💻 About Me
-I'm a passionate **Software Developer** from New Delhi, India, with a strong background in web development. My expertise spans across various domains, from creating scalable web applications to making games.
+I'm a passionate **Software Developer** with a strong background in web development. My expertise spans across various domains, from creating scalable web applications to making games.
 
 - 🌱 Currently improving my skills in **Next.js** and **Tailwind CSS**
 - 🔭 Working on API development and exploring **GraphQL**, **DevOps** and **Blockchain**
