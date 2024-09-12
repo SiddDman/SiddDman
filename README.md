@@ -15,8 +15,10 @@ I'm a passionate **Software Developer** from New Delhi, India, with a strong bac
 **Languages**  
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -84,7 +86,7 @@ A news app built with **React** that fetches data from multiple categories via t
 
 - LinkedIn: [Siddharth Dhiman](https://www.linkedin.com/in/siddharthdhiman)
 - Email: dhiman12siddharth@gmail.com
-- Portfolio: [Portfolio Link](https://sidddman.github.io/personal-portfolio/)
+- Portfolio: [Siddharth.Dev](https://sidddman.github.io/personal-portfolio/)
 
 ---
 
