@@ -6,7 +6,7 @@ I'm a passionate **Software Developer** with a strong background in web developm
 
 - 🌱 Currently improving my skills in **Next.js** and **Tailwind CSS**
 - 🔭 Working on API development and exploring **GraphQL**, **DevOps** and **Blockchain**
-- 💬 Ask me about **React, TypeScript, C++**, or **Web Developcodement**
+- 💬 Ask me about **React, C++**, or **Web Development**
 - 💡 I'm passionate about technology, solving problems, and building solutions that help real users.
 
 ---
