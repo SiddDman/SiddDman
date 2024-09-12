@@ -4,9 +4,9 @@
 I'm a passionate **Software Developer** from New Delhi, India, with a strong background in web development. My expertise spans across various domains, from creating scalable web applications to making games.
 
 - 🌱 Currently improving my skills in **Next.js** and **Tailwind CSS**
-- 🔭 Working on API development and exploring **DevOps** and **Blockchain**
+- 🔭 Working on API development and exploring **GraphQL**, **DevOps** and **Blockchain**
 - 💬 Ask me about **React, TypeScript, C++**, or **Web Developcodement**
-- 💡 I'm passionate about technology, solving problems, and building solutions for the future.
+- 💡 I'm passionate about technology, solving problems, and building solutions that help real users.
 
 ---
 
@@ -27,6 +27,7 @@ I'm a passionate **Software Developer** from New Delhi, India, with a strong bac
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![ShadCN](https://img.shields.io/badge/ShadCN-%234A90E2.svg?style=for-the-badge&logo=shadcn&logoColor=white&color=000000)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
 
 **Backend**  
@@ -40,6 +41,7 @@ I'm a passionate **Software Developer** from New Delhi, India, with a strong bac
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 ##
@@ -84,8 +86,8 @@ A news app built with **React** that fetches data from multiple categories via t
 
 ## 📫 Get In Touch
 
-- LinkedIn: [Siddharth Dhiman](https://www.linkedin.com/in/siddharthdhiman)
 - Email: dhiman12siddharth@gmail.com
+- LinkedIn: [Siddharth Dhiman](https://www.linkedin.com/in/siddharthdhiman)
 - Portfolio: [Siddharth.Dev](https://sidddman.github.io/personal-portfolio/)
 
 ---
