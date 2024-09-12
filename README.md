@@ -22,8 +22,8 @@ I'm a passionate **Software Developer** with a strong background in Web Developm
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 
 <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SiddDman&layout=compact&theme=onedark" />
 
@@ -31,8 +31,8 @@ I'm a passionate **Software Developer** with a strong background in Web Developm
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![ShadCN](https://img.shields.io/badge/ShadCN-%234A90E2.svg?style=flat&logo=shadcn&logoColor=white&color=000000)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![ShadCN](https://img.shields.io/badge/ShadCN-%234A90E2.svg?style=flat&logo=shadcn&logoColor=white&color=000000)
 
 **Backend**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) 
