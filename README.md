@@ -20,10 +20,10 @@ I'm a passionate **Software Developer** with a strong background in web developm
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
 ![SQL](https://img.shields.io/badge/SQL-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
 <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SiddDman&layout=compact&theme=onedark" />
 
