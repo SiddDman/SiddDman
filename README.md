@@ -8,7 +8,7 @@ I'm a passionate **Software Developer** from New Delhi, India, with a strong bac
 - 💬 Ask me about **React, TypeScript, C++**, or **Web Developcodement**
 - 💡 I'm passionate about technology, solving problems, and building solutions for the future.
 
----
+##
 
 ## 🛠️ My Tech Stack
 
