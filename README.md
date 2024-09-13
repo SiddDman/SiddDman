@@ -1,6 +1,6 @@
 ## Hi, I'm Siddharth Dhiman 👋
 
-## <img src="https://raw.githubusercontent.com/SiddDman/personal-portfolio/starter/public/dev.gif" width="45" /> About Me
+## <img src="https://raw.githubusercontent.com/SiddDman/SiddDman/main/assets/dev.gif" width="45" /> About Me
 
 I'm a passionate **Software Developer** with a strong background in Web Development. My expertise spans across various domains, from creating scalable web applications to making games.
 
@@ -73,7 +73,7 @@ A **Multi-Node Hadoop Cluster** set up for processing large datasets using the *
 - Setup Video: [Youtube Demo](https://youtu.be/8mBPeT00xsM?si=3wWJ5c4ddyNhK6sk)
 - Documentation: [Documentaion](https://docs.google.com/document/d/1gWLlMBr96HJnkWsXyHkFN0UaqNokG3sTZGxMec_C_uc/edit?usp=sharing)
 
-### [Portfolio Website](https://github.com/SiddDman/personal-portfolio/tree/starter)
+### [Portfolio Website](https://github.com/SiddDman/personal-portfolio)
 A **dynamic portfolio website** showcasing my skills, projects, and contact information. Built with **React**, **framer-motion**, **React Three**, and **Sass**, it features smooth animations and responsive design.
 
 - Technologies: **React**, **framer-motion**, **React Three**, **Sass**
