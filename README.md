@@ -55,37 +55,37 @@ I'm a passionate **Software Developer** with a strong background in Web Developm
 ## 🚀 Projects
 
 ### [DocuVerse](https://github.com/SiddDman/docu-verse)
-A collaborative text editor with real-time collaboration using **Next.js**, **TypeScript**, and **Tailwind CSS**. Features rich text editing, responsive design, and user authentication. User authentication is handled by **Clerk**, and the app is deployed on **Vercel**.
+A collaborative text editor built with **Next.js**, **TypeScript**, and **Tailwind CSS**, offering real-time collaboration and a seamless editing experience. Integrated **Liveblocks SDK** to enable shared cursors, user avatars, notifications for mentions, document access, and access management. **Lexical** provides rich text editing with support for comments, while **Clerk** handles user authentication. Bug tracking is managed via **Sentry**, and the app features a fully responsive design layout for a seamless experience across all devices. It is deployed on **Vercel**.
 
 - Technologies: **Next.js**, **TypeScript**, **Tailwind CSS**, **Liveblocks SDK**, **Lexical**, **Clerk**, **Sentry**
 - Deployment: [Live Demo](https://docu-verse-sidd.vercel.app/)
 
 ### [Meetease](https://github.com/SiddDman/MeetEase)
-A video conferencing app built using **Next.js**, **Stream Video SDK**, and **Tailwind CSS**. User authentication is handled by **Clerk**, and the app is deployed on **Vercel**.
+A full-featured video conferencing app built with **Next.js**, **Stream Video SDK**, and **Tailwind CSS**. It supports high-quality video calls using **Stream SDK**, with functionality for scheduling, recording, and instant meetings. Users can manage their personal room for quick meetings, and view upcoming or past meetings in dedicated tabs. Secure user authentication is powered by **Clerk**. The app is designed with a fully responsive layout for a seamless experience across all devices. It is deployed on **Vercel**.
 
 - Technologies: **Next.js**, **TypeScript**, **Tailwind CSS**, **Stream Video SDK**, **Clerk**
 - Deployment: [Live Demo](https://meet-ease-phi.vercel.app/)
 
 ### Multi-Node Hadoop Cluster
-A **Multi-Node Hadoop Cluster** set up for processing large datasets using the **MapReduce** programming model. This project demonstrates how to configure a Hadoop cluster with multiple nodes and implement a sample **MapReduce** job for distributed data processing.
+A **Multi-Node Hadoop Cluster** designed for processing large datasets using the **MapReduce** programming model. Configured a scalable cluster with one master and three slave nodes, facilitating seamless **SSH** access by mapping IP addresses. Set the **Replication Factor** to 2 for fault tolerance by replicating files across two slave VMs. Implemented **MapReduce** using the **WordCount** example to demonstrate distributed data processing.
 
 - Technologies: **Hadoop**, **MapReduce**
 - Setup Video: [Youtube Demo](https://youtu.be/8mBPeT00xsM?si=3wWJ5c4ddyNhK6sk)
 - Documentation: [Documentaion](https://docs.google.com/document/d/1gWLlMBr96HJnkWsXyHkFN0UaqNokG3sTZGxMec_C_uc/edit?usp=sharing)
 
 ### [Portfolio Website](https://github.com/SiddDman/personal-portfolio)
-A **dynamic portfolio website** showcasing my skills, projects, and contact information. Built with **React**, **framer-motion**, **React Three**, and **Sass**, it features smooth animations and responsive design.
+A **dynamic portfolio website** showcasing my skills, projects, and contact information. Built with **React**, **framer-motion**, **React Three**, and **Sass**, it features smooth animations and a fully responsive design. The skills section uses interactive 3D elements to display the relevant technologies I have worked with. It is deployed on **Github Pages**.   
 
 - Technologies: **React**, **framer-motion**, **React Three**, **Sass**
 - Deployment: [Live Demo](https://sidddman.github.io/personal-portfolio/)
 
 ### [AI Image Generation Chromium Extension](https://github.com/SiddDman/ai-image-gen-extension)
-A browser extension that generates images from text using **OpenAI's API**.
+A browser extension that generates images from text using **OpenAI's API**. Integrated **OpenAI’s API** to generate high-quality images directly in the browser with minimal intrusion, and built with a simple, responsive interface.
 
 - Technologies: **React**, **OpenAI API**, **JavaScript**
 
 ### [Rocket News](https://github.com/SiddDman/News_Website_React)
-A news app built with **React** that fetches data from multiple categories via the **News API**. It features dark mode and a responsive UI.
+A news app built with **React** that fetches data from multiple categories via the **News API**. Real-time news fetching with dark mode for low-light reading and a fully responsive UI for seamless use across devices.
 
 - Technologies: **React**, **News API**
 
