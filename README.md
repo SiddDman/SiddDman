@@ -25,7 +25,7 @@ I'm a passionate **Software Developer** with a strong background in Web Developm
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddDman&theme=neon&show_icons=true&hide_border=true&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddDman&theme=holi&show_icons=true&hide_border=true&layout=compact" />
 
 **Frontend**  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) 
