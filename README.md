@@ -9,8 +9,6 @@ I'm a passionate **Software Developer** with a strong background in Web Developm
 - 💬 Ask me about **React, C++**, or **Web Development**
 - 💡 I'm passionate about technology, solving problems, and building solutions that help real users.
 
----
-
 ## 🛠️ Tech Stack
 
 **Languages**  
@@ -49,8 +47,6 @@ I'm a passionate **Software Developer** with a strong background in Web Developm
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
 
----
-
 
 ## 🚀 Projects
 
@@ -60,7 +56,7 @@ A collaborative text editor built with **Next.js**, **TypeScript**, and **Tailwi
 - Technologies: **Next.js**, **TypeScript**, **Tailwind CSS**, **Liveblocks SDK**, **Lexical**, **Clerk**, **Sentry**
 - Deployment: [Live Demo](https://docu-verse-sidd.vercel.app/)
 
-### [Meetease](https://github.com/SiddDman/MeetEase)
+### [MeetEase](https://github.com/SiddDman/MeetEase)
 A full-featured video conferencing app built with **Next.js**, **Stream Video SDK**, and **Tailwind CSS**. It supports high-quality video calls using **Stream SDK**, with functionality for scheduling, recording, and instant meetings. Users can manage their personal room for quick meetings, and view upcoming or past meetings in dedicated tabs. Secure user authentication is powered by **Clerk**. The app is designed with a fully responsive layout for a seamless experience across all devices. It is deployed on **Vercel**.
 
 - Technologies: **Next.js**, **TypeScript**, **Tailwind CSS**, **Stream Video SDK**, **Clerk**
@@ -89,20 +85,15 @@ A news app built with **React** that fetches data from multiple categories via t
 
 - Technologies: **React**, **News API**
 
----
-
 ## My Contributions  
 ![Snake animation](https://raw.githubusercontent.com/SiddDman/SiddDman/output/github-contribution-grid-snake-dark.svg)  
 
----
 ## 📫 Get In Touch
 
 - Email: dhiman12siddharth@gmail.com
 - LinkedIn: [Siddharth Dhiman](https://www.linkedin.com/in/siddharthdhiman)
 - Portfolio: [Siddharth.Dev](https://sidddman.github.io/personal-portfolio/)
 - Youtube: [@SiddharthDhiman](https://www.youtube.com/@SiddharthDhiman)
-
----
 
 ## Let's collaborate and create something amazing together!🤝
 <!--
